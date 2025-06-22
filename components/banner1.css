@@ -27,10 +27,6 @@
   text-align: center;
 }
  
-.banner1-navlink {
-  text-decoration: none;
-}
- 
 .banner1-fragment1 {
   display: contents;
 }
@@ -44,14 +40,6 @@
 }
  
 .banner1-text3 {
-  display: inline-block;
-}
- 
-.banner1-fragment3 {
-  display: contents;
-}
- 
-.banner1-text4 {
   display: inline-block;
 }
  
